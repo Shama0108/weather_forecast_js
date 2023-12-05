@@ -3,10 +3,11 @@
 ## Description
 A simple weather app that provides current weather information based on user input
 
-##Getting Started
-
 ## Usage 
+Enter a city or location to get the current weather forecast.
 
-##API Information
+## API Information
+This app uses the OpenWeatherMap API. You will need to sign up for an API key (https://openweathermap.org/api) and add it
 
-##Acknowledgement
+## Acknowledgement
+Thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather data.

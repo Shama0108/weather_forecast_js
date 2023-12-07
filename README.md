@@ -11,3 +11,4 @@ This app uses the OpenWeatherMap API. You will need to sign up for an API key (h
 
 ## Acknowledgement
 Thanks to [OpenWeatherMap](https://openweathermap.org/) for providing the weather data.
+This project was created by following the tutorial from GreatStack YouTube Channel.
